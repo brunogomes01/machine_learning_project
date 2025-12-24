@@ -61,7 +61,7 @@ machine_learning_project/
 ├── data/
 │   └── test.xlsx
 │   └── train.xlsx
-├── notebooks/
+├── notebook/
 │   └── machine_learning_project.ipynb
 ├── predict_results/
 │   └── predict_credit_score_results.xlsx
